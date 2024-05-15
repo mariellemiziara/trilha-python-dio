@@ -9,7 +9,11 @@ print(linguagens)
 linguagens = ["python", "js", "c", "java", "csharp"]
 linguagens.sort(key=lambda x: len(x))  # ["c", "js", "java", "python", "csharp"]
 print(linguagens)
+#do menor pro maior
 
 linguagens = ["python", "js", "c", "java", "csharp"]
 linguagens.sort(key=lambda x: len(x), reverse=True)  # ["python", "csharp", "java", "js", "c"]
 print(linguagens)
+#do maior pro menor
+
+#ordenar alfabeticamente
