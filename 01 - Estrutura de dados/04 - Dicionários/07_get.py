@@ -12,3 +12,5 @@ resultado = contatos.get(
     "guilherme@gmail.com", {}
 )  # {"guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"}
 print(resultado)
+
+#saber se o elemnto existe

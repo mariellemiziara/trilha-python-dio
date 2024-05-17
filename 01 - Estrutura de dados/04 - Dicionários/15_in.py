@@ -16,3 +16,5 @@ print(resultado)
 
 resultado = "telefone" in contatos["giovanna@gmail.com"]  # True
 print(resultado)
+
+#verificar se a algo existe
